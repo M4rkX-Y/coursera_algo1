@@ -1,2 +1,4 @@
-# coursera_algo1
-Algorithm Part 1 from Princeton University on Coursera.
+# Algorithm Part 1
+
+All homework and exams completed for Algorithm Part 1. Completed 2022 summer.
+
